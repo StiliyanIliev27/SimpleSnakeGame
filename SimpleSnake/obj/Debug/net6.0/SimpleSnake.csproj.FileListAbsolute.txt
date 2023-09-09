@@ -1,0 +1,15 @@
+D:\Programming\CSharpOOP_2023\SimpleSnake\SimpleSnake\bin\Debug\net6.0\SimpleSnake.exe
+D:\Programming\CSharpOOP_2023\SimpleSnake\SimpleSnake\bin\Debug\net6.0\SimpleSnake.deps.json
+D:\Programming\CSharpOOP_2023\SimpleSnake\SimpleSnake\bin\Debug\net6.0\SimpleSnake.runtimeconfig.json
+D:\Programming\CSharpOOP_2023\SimpleSnake\SimpleSnake\bin\Debug\net6.0\SimpleSnake.dll
+D:\Programming\CSharpOOP_2023\SimpleSnake\SimpleSnake\bin\Debug\net6.0\SimpleSnake.pdb
+D:\Programming\CSharpOOP_2023\SimpleSnake\SimpleSnake\obj\Debug\net6.0\SimpleSnake.csproj.AssemblyReference.cache
+D:\Programming\CSharpOOP_2023\SimpleSnake\SimpleSnake\obj\Debug\net6.0\SimpleSnake.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CSharpOOP_2023\SimpleSnake\SimpleSnake\obj\Debug\net6.0\SimpleSnake.AssemblyInfoInputs.cache
+D:\Programming\CSharpOOP_2023\SimpleSnake\SimpleSnake\obj\Debug\net6.0\SimpleSnake.AssemblyInfo.cs
+D:\Programming\CSharpOOP_2023\SimpleSnake\SimpleSnake\obj\Debug\net6.0\SimpleSnake.csproj.CoreCompileInputs.cache
+D:\Programming\CSharpOOP_2023\SimpleSnake\SimpleSnake\obj\Debug\net6.0\SimpleSnake.dll
+D:\Programming\CSharpOOP_2023\SimpleSnake\SimpleSnake\obj\Debug\net6.0\refint\SimpleSnake.dll
+D:\Programming\CSharpOOP_2023\SimpleSnake\SimpleSnake\obj\Debug\net6.0\SimpleSnake.pdb
+D:\Programming\CSharpOOP_2023\SimpleSnake\SimpleSnake\obj\Debug\net6.0\SimpleSnake.genruntimeconfig.cache
+D:\Programming\CSharpOOP_2023\SimpleSnake\SimpleSnake\obj\Debug\net6.0\ref\SimpleSnake.dll
